@@ -1,8 +1,8 @@
 <h2 align="left">Hi there, I'm <a href="https://www.linkedin.com/in/asto" target="_blank" rel="noopener noreferrer">Ashish</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" />
 
-- 🎓 Mastered Computer Science, literally (I'm a postgrad now 💡)
+- 🎓 I’ve leveled up to a computer science grad—just one thesis away from pro button pusher!
 - ⭐ 2024 Goal: Open-source hero in the making! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- ⚡ Passions: Snapping pics 📸, debugging backend chaos 🐛, wrestling databases 🛢️, optimizing queries 💻, and books 📚!
+- ⚡ Faves: Capturing moments 📸, taming backend chaos 🐛, wrangling databases 🛢️, optimizing queries 💻, and devouring books 📚
 
 # 💻 Tech Stack:
 
@@ -49,7 +49,3 @@
 ---
 
 [![](https://visitcount.itsvg.in/api?id=ashishstomar&label=Profile%20Views&icon=5&pretty=false)](https://visitcount.itsvg.in)
-
----
-
-Credit: [ashishstomar](https://github.com/ashishstomar)
