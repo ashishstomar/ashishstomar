@@ -1,6 +1,6 @@
 <h2 align="left">Hi there, I'm <a href="https://www.linkedin.com/in/asto" target="_blank" rel="noopener noreferrer">Ashish</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" />
 
-- 🎓 I’ve leveled up to a computer science grad—just one thesis away from pro button pusher!
+- 👨‍💻 I'm a **Full Stack Developer** who loves bringing ideas to life in the browser. Growing up with the early internet sparked my passion for building fast, responsive, and accessible web applications.
 - ⭐ 2024 Goal: Open-source hero in the making! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - ⚡ Faves: Capturing moments 📸, taming backend chaos 🐛, wrangling databases 🛢️, optimizing queries 💻, and devouring books 📚
 
@@ -26,13 +26,14 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/graphql-%23E10098.svg?style=for-the-badge&logo=graphql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![NGINX](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+
 
 # 📊 GitHub Stats:
 
