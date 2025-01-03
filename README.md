@@ -1,7 +1,7 @@
 <h2 align="left">Hi there, I'm <a href="https://www.linkedin.com/in/asto" target="_blank" rel="noopener noreferrer">Ashish</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" />
 
 - 👨‍💻 I'm a **Full Stack Developer** who loves bringing ideas to life in the browser. Growing up with the early internet sparked my passion for building fast, responsive, and accessible web applications.
-- ⭐ 2024 Goal: Open-source hero in the making! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- ⭐ 2025 Goal: Open-source hero in the making! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - ⚡ Faves: Capturing moments 📸, taming backend chaos 🐛, wrangling databases 🛢️, optimizing queries 💻, and devouring books 📚
 
 # 💻 Tech Stack:
